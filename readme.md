@@ -1,4 +1,6 @@
-# Demo Django
+# Blogging App 
+
+by [Django girls](https://tutorial.djangogirls.org/en)
 
 ## commands
 
@@ -20,4 +22,3 @@
     python manage.py makemigrations blog
     python manage.py migrate blog
     ```
--
